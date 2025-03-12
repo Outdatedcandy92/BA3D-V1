@@ -3,7 +3,7 @@ Made by: @outdatedcandy92
 
 Repository: [https://github.com/Outdatedcandy92/CandyV1](https://github.com/Outdatedcandy92/CandyV1)
 
-### Total Hours: 11
+### Total Hours: 14
 
 - ✅I have a 3D printer or will be getting one before March 21st
 
@@ -86,3 +86,11 @@ Over the past 3 days I've worked on my parts list and BOM and I've almost finish
 
 ### Time Spent:  8 hours
 
+
+## Day 7 (11th March 2025)
+
+Started working on the design of the print today. I started by building out the frame and then placing all the rods and lead screws. After some considerations and looking at the design I decided to opt for only 1 lead screw instead of two, since my bed wont be that heavy.
+
+![Image](https://github.com/user-attachments/assets/2bc5e786-8dab-40bb-9ab5-2a88fcd0478e)
+
+### Time Spent: 3 Hours
