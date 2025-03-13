@@ -1,9 +1,10 @@
 # Candy V1
+
 Made by: @outdatedcandy92
 
 Repository: [https://github.com/Outdatedcandy92/CandyV1](https://github.com/Outdatedcandy92/CandyV1)
 
-### Total Hours: 14
+### Total Hours: 20
 
 - ✅I have a 3D printer or will be getting one before March 21st
 
@@ -94,3 +95,17 @@ Started working on the design of the print today. I started by building out the 
 ![Image](https://github.com/user-attachments/assets/2bc5e786-8dab-40bb-9ab5-2a88fcd0478e)
 
 ### Time Spent: 3 Hours
+
+## Day 11 (12th March 2025)
+
+Well... I redesigned my printer... again..
+
+After some thinking and considerations I decide to change up my movement style and just go for a standard bed-slinger design. The previous corexy was a good design but making it with a 300x300mm bed was really becoming a problem. I had to cheap out on stuff and remove some features I wanted. With a bedslinger I was able to reduce the overall cost, which allowed me to fit better stuff within the budget, like linear rails for my x and z axis. 
+
+I worked on the 3D model of this new design today, layed out the frame, the rails, the bed. I'm aiming that I can work on connecting them all together tommorow, and then finally start working on the toolhead on 14th.
+
+![Image](https://github.com/user-attachments/assets/4c334025-5592-4327-b8f5-b87abf8fcd32)
+I also spent some time on updating my old BOM.
+
+### Time Spent: 6 Hours
+
