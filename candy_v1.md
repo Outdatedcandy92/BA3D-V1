@@ -1,10 +1,9 @@
 # Candy V1
-
 Made by: @outdatedcandy92
 
 Repository: [https://github.com/Outdatedcandy92/CandyV1](https://github.com/Outdatedcandy92/CandyV1)
 
-### Total Hours: 20
+### Total Hours: 25
 
 - ✅I have a 3D printer or will be getting one before March 21st
 
@@ -96,7 +95,7 @@ Started working on the design of the print today. I started by building out the 
 
 ### Time Spent: 3 Hours
 
-## Day 11 (12th March 2025)
+## Day 8 (12th March 2025)
 
 Well... I redesigned my printer... again..
 
@@ -109,3 +108,18 @@ I also spent some time on updating my old BOM.
 
 ### Time Spent: 6 Hours
 
+
+
+## Day 9 (March 13th 2025)
+
+Well it turns out I totally forgot about my Y-Carriage when making the BOM which I realised today when working on the 3D model. So today I spent all of my time on researching what different types of Y-Carriage systems I could use, researching on if I should use linear rails, or smooth rods, or even wheels. After some research I landed on my original idea of using 2 smooth rods but this time I decided to use SC8UU bearings. 
+Because I am not using a heatbed I ran into a bit of a problem. How do I mount my build plate on the Y-Carriage? This was a really big problem as a lot of the suggestions were to use either 3-4mm Aluminium plates or Acrylic Sheets, but both of these had their issues. Firstly Aluminium plates were super expensive and then secondly both the Aluminium and Acrylic sheet did not have holes in them, drilling holes myself was not possible as I do not have the proper tools to do such task. After a lot of more searching and surfing I landed on MDF board. I found a cheap 2pc set of 2mm MDF board on aliexpress, which I think is perfect for my project as its cheap, its light, and I can drill into it.
+
+Since I was well under the budget I decided to add magnetic sheet with my build plate
+Here is an image of the updated BOM
+![Image](https://github.com/user-attachments/assets/c548b1af-a310-4402-955f-9d387d04a661)
+
+
+I also worked a bit on my sketches for the printer.
+
+### Time Spent: 5 Hours
