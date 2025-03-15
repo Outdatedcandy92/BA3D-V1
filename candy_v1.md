@@ -3,7 +3,7 @@ Made by: @outdatedcandy92
 
 Repository: [https://github.com/Outdatedcandy92/CandyV1](https://github.com/Outdatedcandy92/CandyV1)
 
-### Total Hours: 25
+### Total Hours: 28
 
 - ✅I have a 3D printer or will be getting one before March 21st
 
@@ -123,3 +123,17 @@ Here is an image of the updated BOM
 I also worked a bit on my sketches for the printer.
 
 ### Time Spent: 5 Hours
+
+## Day 10 (March 14th 2025)
+
+
+Today I worked on my 3D design of the printer overall, added the new Y-Carriage, mounted it with bearings, added smooth rods. All the basic parts are laid out now except for the toolhead which I also started working on, my plan is to go for afterburner type design.
+I also changed up my extruder and hotend components, the updated components are the E3D V6 hotend and Titan Extruder
+
+Here are some screenshots of todays work-
+![Image](https://github.com/user-attachments/assets/0f1a8d6f-9905-47f4-8e64-20a0b83c7fdc)
+![Image](https://github.com/user-attachments/assets/92a059f6-a2b8-4219-829c-7699cfbd06e5)
+
+![Image](https://github.com/user-attachments/assets/128f7f1c-c26c-4855-b977-7521660d3b1e)
+
+### Time Spent: 3 Hours
