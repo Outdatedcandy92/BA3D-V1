@@ -1,5 +1,5 @@
-# BA3D-V1
-**BA3D-V1 is a WIP DIY 3D Printer fully made using off the shelf components**
+# BA3DP-V1
+**BA3DP-V1 is a WIP DIY 3D Printer fully made using off the shelf components**
 **THE PRINTER IS STILL WIP, THE FILES IN THIS REPOSITORY MIGHT NOT BE THE LATEST FILES**
 
 
