@@ -1,5 +1,5 @@
-# Candy V1
-**Candy V1 is a WIP DIY 3D Printer fully made using off the shelf components**
+# BA3D-V1
+**BA3D-V1 is a WIP DIY 3D Printer fully made using off the shelf components**
 **THE PRINTER IS STILL WIP, THE FILES IN THIS REPOSITORY MIGHT NOT BE THE LATEST FILES**
 
 
@@ -39,11 +39,11 @@ Check out the Printer's Journey [Here](https://infill.hackclub.com/printers/cand
 
 - 250mm^3 Build Volume
 - Bedslinger Design
-- In-Built Camera for Timelapse and Build Failure Detection
-- Filament Tangle and Runout Detection
+- In-Built Camera for Timelapse and Build Failure Detection [yet to implement 😔]
+- Filament Tangle and Runout Detection [yet to implement 😔]
 - Prints up to 0.1mm Layer Resolution
 - OctoPrint + Klipper
-- Support for minimum 2 Filament AMS System
+- Support for minimum 2 Filament AMS System [yet to implement 😔]
 
 ## BOM
 Link to BOM: [Link](https://docs.google.com/spreadsheets/d/10UROUA1rVFZyfdf39kwov9C5ffhGzZl1vPd_-cW53OE/edit?gid=1268001236#gid=1268001236)
